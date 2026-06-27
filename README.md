@@ -67,7 +67,7 @@ Proyecto académico enfocado en la creación de un sistema de reservas utilizand
 
 Puedes conocer más sobre mi perfil y proyectos aquí:
 
-🔗 https://juan2509.github.io/Portafolio-Web-Juan
+https://juan2509.github.io/Portafolio-Web-Juan-Jose-Rangel/
 
 ---
 
