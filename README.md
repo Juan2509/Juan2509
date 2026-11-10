@@ -2,11 +2,11 @@
 
 
 
-##  Desarrollador de software en formación
+##  Diseñador de videojuegos
 
-Actualmente me encuentro formándome en el área de Desarrollo de Software, aprendiendo sobre creación de aplicaciones, desarrollo web y manejo de herramientas utilizadas en proyectos reales.
+Actualmente acabo de formárme en el área de Desarrollo de Software, aprendiendo sobre creación de aplicaciones, desarrollo web y manejo de herramientas utilizadas en proyectos reales.
 
-Me interesa especialmente la creación de interfaces y páginas web donde pueda combinar la parte técnica con la creatividad y el diseño.
+Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo estrategias que garanticen que un videojuego esté bien planteado y que además cuente con una visión creativa.
 
 
 
@@ -14,9 +14,9 @@ Me interesa especialmente la creación de interfaces y páginas web donde pueda 
 
 ##  Sobre mí
 
-- Estudiante de Desarrollo de Software en Campuslands
+- Desarrollador de Software en Campuslands
 - Con conocimientos en desarrollo web y programación
-- Interesado en diseño UI y creación de experiencias visuales
+- Interesado en diseño y creación de experiencias digitales
 - Siempre buscando mejorar y aprender nuevas tecnologías
 - Me gusta trabajar en equipo y aportar ideas dentro de los proyectos
 
@@ -37,7 +37,7 @@ Me interesa especialmente la creación de interfaces y páginas web donde pueda 
 - Git
 - GitHub
 - Visual Studio Code
-- Figma
+- Game Maker Studio
 
 ### Metodologías
 - Scrum
@@ -48,8 +48,8 @@ Me interesa especialmente la creación de interfaces y páginas web donde pueda 
 
 
 
-### Sistema de préstamo de herramientas
-Proyecto desarrollado en Python para gestionar un sistema de préstamo utilizando programación estructurada y lógica aplicada.
+### Sitio Web
+Desarrollo de apartado visual de una página web de compras en línea usando los lenguajes de código HTML y CSS usando recursos de Figma para darle una apariencia profesional.
 
 
 
@@ -58,8 +58,8 @@ Diseño y desarrollo de una página web tipo hoja de vida utilizando HTML y CSS,
 
 
 
-### Sistema de hotelería
-Proyecto académico enfocado en la creación de un sistema de reservas utilizando Python.
+### Videojuego de plataformas 2D
+Proyecto personal enfocado en la dirección creativa y en desarrollo de videojuego en Game Maker Studio.
 
 
 
