@@ -11,7 +11,7 @@
 
 # Hola, soy Juan José Rangel
 
-## <img src="assets/readme/presentacion-v2.svg" alt="Diseñador de videojuegos" width="100%">
+## <img src="assets/readme/presentacion-sin-subrayado.svg" alt="Diseñador de videojuegos" width="100%">
 
 Actualmente acabo de formárme en el área de Desarrollo de Software, aprendiendo sobre creación de aplicaciones, desarrollo web y manejo de herramientas utilizadas en proyectos reales.
 
@@ -19,7 +19,7 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
 
 ---
 
-## <img src="assets/readme/sobre-mi-v2.svg" alt="Sobre mí" width="100%">
+## <img src="assets/readme/sobre-mi-sin-subrayado.svg" alt="Sobre mí" width="100%">
 
 - Desarrollador de Software en Campuslands
 - Con conocimientos en desarrollo web y programación
@@ -27,7 +27,7 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
 - Siempre buscando mejorar y aprender nuevas tecnologías
 - Me gusta trabajar en equipo y aportar ideas dentro de los proyectos
 
-## <img src="assets/readme/tecnologias-v2.svg" alt="Tecnologías y herramientas" width="100%">
+## <img src="assets/readme/tecnologias-sin-subrayado.svg" alt="Tecnologías y herramientas" width="100%">
 
 ### Desarrollo
 - HTML
@@ -45,7 +45,7 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
 ### Metodologías
 - Scrum
 
-## <img src="assets/readme/proyectos-v2.svg" alt="Proyectos destacados" width="100%">
+## <img src="assets/readme/proyectos-sin-subrayado.svg" alt="Proyectos destacados" width="100%">
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
   </tr>
 </table>
 
-## <img src="assets/readme/portafolio-v2.svg" alt="Mi portafolio" width="100%">
+## <img src="assets/readme/portafolio-sin-subrayado.svg" alt="Mi portafolio" width="100%">
 
 Puedes conocer más sobre mi perfil y proyectos aquí:
 
@@ -72,7 +72,7 @@ https://juan2509.github.io/Portafolio-Web-Juan-Jose-Rangel/
 
 ---
 
-## <img src="assets/readme/contacto-v2.svg" alt="Contacto" width="100%">
+## <img src="assets/readme/contacto-sin-subrayado.svg" alt="Contacto" width="100%">
 
 juanjosericardorangelsandoval@gmail.com
 
