@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:09090B,100:B91C1C&amp;height=240&amp;section=header&amp;text=Juan%20Jos%C3%A9%20Rangel&amp;fontSize=52&amp;fontColor=FFFFFF&amp;animation=fadeIn" alt="Juan José Rangel" width="100%">
+  <img src="assets/readme/banner.svg" alt="Juan José Rangel" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 # Hola, soy Juan José Rangel
 
-##  Diseñador de videojuegos
+## <img src="assets/readme/presentacion.svg" alt="Diseñador de videojuegos" width="100%">
 
 Actualmente acabo de formárme en el área de Desarrollo de Software, aprendiendo sobre creación de aplicaciones, desarrollo web y manejo de herramientas utilizadas en proyectos reales.
 
@@ -19,7 +19,7 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
 
 ---
 
-##  Sobre mí
+## <img src="assets/readme/sobre-mi.svg" alt="Sobre mí" width="100%">
 
 - Desarrollador de Software en Campuslands
 - Con conocimientos en desarrollo web y programación
@@ -27,7 +27,7 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
 - Siempre buscando mejorar y aprender nuevas tecnologías
 - Me gusta trabajar en equipo y aportar ideas dentro de los proyectos
 
-## Tecnologías y herramientas
+## <img src="assets/readme/tecnologias.svg" alt="Tecnologías y herramientas" width="100%">
 
 ### Desarrollo
 - HTML
@@ -45,18 +45,26 @@ Me interesa el diseño de niveles y mecánicas de un videojuego llevando a cabo 
 ### Metodologías
 - Scrum
 
-## Proyectos destacados
+## <img src="assets/readme/proyectos.svg" alt="Proyectos destacados" width="100%">
 
-### Sitio Web
-Desarrollo de apartado visual de una página web de compras en línea usando los lenguajes de código HTML y CSS usando recursos de Figma para darle una apariencia profesional.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Sitio Web</h3>
+      <p>Desarrollo de apartado visual de una página web de compras en línea usando los lenguajes de código HTML y CSS usando recursos de Figma para darle una apariencia profesional.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Portafolio web personal</h3>
+      <p>Diseño y desarrollo de una página web tipo hoja de vida utilizando HTML y CSS, enfocada en presentar mi perfil, habilidades y proyectos.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Videojuego de plataformas 2D</h3>
+      <p>Proyecto personal enfocado en la dirección creativa y en desarrollo de videojuego en Game Maker Studio.</p>
+    </td>
+  </tr>
+</table>
 
-### Portafolio web personal
-Diseño y desarrollo de una página web tipo hoja de vida utilizando HTML y CSS, enfocada en presentar mi perfil, habilidades y proyectos.
-
-### Videojuego de plataformas 2D
-Proyecto personal enfocado en la dirección creativa y en desarrollo de videojuego en Game Maker Studio.
-
-## Mi portafolio
+## <img src="assets/readme/portafolio.svg" alt="Mi portafolio" width="100%">
 
 Puedes conocer más sobre mi perfil y proyectos aquí:
 
@@ -64,7 +72,7 @@ https://juan2509.github.io/Portafolio-Web-Juan-Jose-Rangel/
 
 ---
 
-## Contacto
+## <img src="assets/readme/contacto.svg" alt="Contacto" width="100%">
 
 juanjosericardorangelsandoval@gmail.com
 
@@ -75,4 +83,3 @@ LinkedIn:
 www.linkedin.com/in/juan-josé-ricardo-rangel-sandoval-8729b5419
 
 Gmail: juanjosericardorangelsandoval@gmail.com
-
