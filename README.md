@@ -81,7 +81,5 @@ https://github.com/Juan2509
 LinkedIn:
 www.linkedin.com/in/juan-josé-ricardo-rangel-sandoval-8729b5419
 
-Gmail:
-
-juanjosericardorangelsandoval@gmail.com
+Gmail: juanjosericardorangelsandoval@gmail.com
 
