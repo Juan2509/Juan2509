@@ -72,14 +72,6 @@ https://juan2509.github.io/Portafolio-Web-Juan-Jose-Rangel/
 
 ---
 
-## <img src="assets/readme/portafolio-sin-subrayado.svg" alt="Mi hoja de vida" width="100%">
-
-Aquí podrás ver mi hoja de vida:
-
-https://juan2509.github.io/Portafolio-Web-Juan-Jose-Rangel/Hoja%20de%20Vida%20Juan%20Rangel.pdf
-
----
-
 ## <img src="assets/readme/contacto-sin-subrayado.svg" alt="Contacto" width="100%">
 
 juanjosericardorangelsandoval@gmail.com
